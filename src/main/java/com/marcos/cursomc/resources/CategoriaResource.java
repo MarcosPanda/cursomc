@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.marcos.cursomc.Domain.Categoria;
+import com.marcos.cursomc.domain.Categoria;
 import com.marcos.cursomc.services.CategoriaService;
 
 @RestController

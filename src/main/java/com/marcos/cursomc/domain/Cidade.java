@@ -1,4 +1,4 @@
-package com.marcos.cursomc.Domain;
+package com.marcos.cursomc.domain;
 
 import java.io.Serializable;
 
